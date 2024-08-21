@@ -1,1 +1,1 @@
-# odin-Library
+In this project, I will apply concepts such as objects, properties, array and array methods, DOM elements, dialogs and modals for forms, buttons and prototypes.
